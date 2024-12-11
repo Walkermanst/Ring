@@ -1,0 +1,21 @@
+{
+  "name": "telegram-ai-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "git": "^0.1.5",
+    "markdown-it": "^13.0.2",
+    "node-telegram-bot-api": "^0.64.0",
+    "openai": "^4.20.1",
+    "rate-limiter-flexible": "^3.0.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
