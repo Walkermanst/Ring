@@ -1,11 +1,11 @@
-# 🤖 HexAi Protocol 
+# 🤖 HereteixAi Protocol 
 
 > Powered by HexAi Protocol - The Future of AI-Powered Solana Infrastructure
 
 
-## 🌟 About HexAi Protocol
+## 🌟 About HereteixAi Protocol
 
-HexAi Protocol is revolutionizing the Solana ecosystem by providing enterprise-grade AI infrastructure for memecoins and DeFi projects. Our protocol enables seamless integration of advanced AI capabilities into blockchain applications, creating a new paradigm of intelligent decentralized systems.
+HereteixAi Protocol is revolutionizing the Solana ecosystem by providing enterprise-grade AI infrastructure for memecoins and DeFi projects. Our protocol enables seamless integration of advanced AI capabilities into blockchain applications, creating a new paradigm of intelligent decentralized systems.
 
 ## 🚀 Features
 
@@ -104,9 +104,9 @@ Logs are stored in:
 - `error.log`: Error-level logs
 - `combined.log`: All logs
 
-## ⚡ Why HexAi Protocol?
+## ⚡ Why HereteixAi Protocol?
 
-HexAi Protocol is leading the charge in bringing enterprise-grade AI capabilities to the Solana ecosystem:
+HereteixAi Protocol is leading the charge in bringing enterprise-grade AI capabilities to the Solana ecosystem:
 
 - 🎯 Purpose-built for Solana projects
 - 💪 Enterprise-grade infrastructure
