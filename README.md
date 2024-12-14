@@ -1,11 +1,11 @@
-# 🤖 HereteixAi Protocol 
+# 🤖 Ring Protocol 
 
 > Powered by HexAi Protocol - The Future of AI-Powered Solana Infrastructure
 
 
-## 🌟 About HereteixAi Protocol
+## 🌟 About Ring Protocol
 
-HereteixAi Protocol is revolutionizing the Solana ecosystem by providing enterprise-grade AI infrastructure for memecoins and DeFi projects. Our protocol enables seamless integration of advanced AI capabilities into blockchain applications, creating a new paradigm of intelligent decentralized systems.
+Ring Protocol is revolutionizing the Solana ecosystem by providing enterprise-grade AI infrastructure for memecoins and DeFi projects. Our protocol enables seamless integration of advanced AI capabilities into blockchain applications, creating a new paradigm of intelligent decentralized systems.
 
 ## 🚀 Features
 
@@ -106,7 +106,7 @@ Logs are stored in:
 
 ## ⚡ Why HereteixAi Protocol?
 
-HereteixAi Protocol is leading the charge in bringing enterprise-grade AI capabilities to the Solana ecosystem:
+Ring Protocol is leading the charge in bringing enterprise-grade AI capabilities to the Solana ecosystem:
 
 - 🎯 Purpose-built for Solana projects
 - 💪 Enterprise-grade infrastructure
