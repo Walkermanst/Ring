@@ -1,11 +1,11 @@
-# 🤖 Ring Protocol 
+# 🤖 LaunchMind Protocol 
 
 > Powered by HexAi Protocol - The Future of AI-Powered Solana Infrastructure
 
 
-## 🌟 About Ring Protocol
+## 🌟 About LaunchMind Protocol
 
-Ring Protocol is revolutionizing the Solana ecosystem by providing enterprise-grade AI infrastructure for memecoins and DeFi projects. Our protocol enables seamless integration of advanced AI capabilities into blockchain applications, creating a new paradigm of intelligent decentralized systems.
+LaunchMind Protocol is revolutionizing the Solana ecosystem by providing enterprise-grade AI infrastructure for memecoins and DeFi projects. Our protocol enables seamless integration of advanced AI capabilities into blockchain applications, creating a new paradigm of intelligent decentralized systems.
 
 ## 🚀 Features
 
@@ -104,9 +104,9 @@ Logs are stored in:
 - `error.log`: Error-level logs
 - `combined.log`: All logs
 
-## ⚡ Why HereteixAi Protocol?
+## ⚡ Why LaunchMind Protocol?
 
-Ring Protocol is leading the charge in bringing enterprise-grade AI capabilities to the Solana ecosystem:
+LaunchMind Protocol is leading the charge in bringing enterprise-grade AI capabilities to the Solana ecosystem:
 
 - 🎯 Purpose-built for Solana projects
 - 💪 Enterprise-grade infrastructure
